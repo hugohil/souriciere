@@ -8,3 +8,5 @@ node_modules/
 
 debug.log
 npm-debug.log
+
+config.js
